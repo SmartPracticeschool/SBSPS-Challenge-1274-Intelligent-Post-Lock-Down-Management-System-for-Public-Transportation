@@ -17,6 +17,6 @@ A mask detection model that can detect if the person is wearing a mask or not, a
 As a preventive measure, a non-contact infrared thermometer can be attached in a secure location at the entrance of public transport vehicle so that temperature of each passenger is measured before boarding and if body temperature of the person is detected to be higher than normal, it should trigger an alarm and he/she should not be allowed to board the vehicle. 
 The data from contactless thermometer to be stored in a database along with the date and timestamp, so that it can be utilized later during contact tracing.
 
-More information about the entire project is given in [this PDF.] ()
+More information about the entire project is given in [this PDF.] (https://github.com/SmartPracticeschool/SBSPS-Challenge-1274-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation/blob/master/PROJECT%20REPORT.pdf)
 
 
