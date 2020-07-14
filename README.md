@@ -21,6 +21,6 @@ More information about the entire project is given in [this PDF.](https://github
 
 Video Demonstration can be accessed [here.](https://drive.google.com/file/d/13FU9IWsJSWjWfCLxF35TVe7Cc-bEMkNS/view?usp=sharing)
 
-Presentation about the entire project can be found [here.]()
+Presentation about the entire project can be found [here.](https://github.com/SmartPracticeschool/SBSPS-Challenge-1274-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation/blob/master/IBMHACK.pptx)
 
 
