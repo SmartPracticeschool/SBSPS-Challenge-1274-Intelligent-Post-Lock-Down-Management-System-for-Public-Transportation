@@ -1,1 +1,4 @@
 # SBSPS-Challenge-1274-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation
+## Overview:
+
+With nearly 2.48 million cases of coronavirus around the world, countries across the globe have been grappling with ways to stall the spread of the pandemic. The number of cases across the world have continued the exponential growth since last month. However, there are a few countries that have been able to limit the rate of growth and 'flatten the curve'. Flattening the curve involves reducing the number of new Covid-19 cases from one day to the next. This helps prevent healthcare systems from becoming overwhelmed. When a country has fewer new Covid-19 cases emerging today than it did on a previous day, that's a sign that the country is flattening the curve. To do so, we have created a user friendly application developed with the services provided by IBM with an interactive Node-Red UI.
