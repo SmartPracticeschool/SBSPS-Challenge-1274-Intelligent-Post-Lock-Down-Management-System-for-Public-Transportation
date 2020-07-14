@@ -6,17 +6,19 @@ With nearly 2.48 million cases of coronavirus around the world, countries across
 ## PROPOSED SOLUTION
 Our solution for the problem is two fold:
 ### 1. For the passenger
-A smart transit platform that can analyse crowd distribution inside public transport and public spaces in near-real time. 
-The application can also prompt the user whenever the space under consideration has an occupancy of, say, more than 55% and alert the user. 
-Provide alternatives to the user such as alternate routes, transit stations, etc. by utilizing the google maps API service.
-Access to useful information like current statistics related to coronavirus situation in the country, hospitals or pharmacies nearby, etc.
-A chat bot that can take user information and process it to intelligently suggest the person whether he/she is fit for traveling or not.
+1. A smart transit platform that can analyse crowd distribution inside public transport and public spaces in near-real time. 
+2. The application can also prompt the user whenever the space under consideration has an occupancy of, say, more than 55% and alert the user. 
+3. Provide alternatives to the user such as alternate routes, transit stations, etc. by utilizing the google maps API service.
+4. Access to useful information like current statistics related to coronavirus situation in the country, hospitals or pharmacies nearby, etc.
+5. A chat bot that can take user information and process it to intelligently suggest the person whether he/she is fit for traveling or not.
 
 ### 2. For the transport provider
-A mask detection model that can detect if the person is wearing a mask or not, and allow only those to enter a vehicle, or any premise, if they are found to be wearing a mask.
-As a preventive measure, a non-contact infrared thermometer can be attached in a secure location at the entrance of public transport vehicle so that temperature of each passenger is measured before boarding and if body temperature of the person is detected to be higher than normal, it should trigger an alarm and he/she should not be allowed to board the vehicle. 
-The data from contactless thermometer to be stored in a database along with the date and timestamp, so that it can be utilized later during contact tracing.
+1. A mask detection model that can detect if the person is wearing a mask or not, and allow only those to enter a vehicle, or any premise, if they are found to be wearing a mask.
+2. As a preventive measure, a non-contact infrared thermometer can be attached in a secure location at the entrance of public transport vehicle so that temperature of each passenger is measured before boarding and if body temperature of the person is detected to be higher than normal, it should trigger an alarm and he/she should not be allowed to board the vehicle. 
+3. The data from contactless thermometer to be stored in a database along with the date and timestamp, so that it can be utilized later during contact tracing.
 
 More information about the entire project is given in [this PDF.](https://github.com/SmartPracticeschool/SBSPS-Challenge-1274-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation/blob/master/PROJECT%20REPORT.pdf)
+
+Video Demonstration can be accessed [here.]()
 
 
